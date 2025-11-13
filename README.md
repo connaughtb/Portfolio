@@ -9,7 +9,7 @@ These are curated examples (not full class repos) to demonstrate code quality, d
 
 ## Projects
 
-> ⚠️ Note: This portfolio is actively being updated (Oct 2025). Additional projects (Motor Controller, Diffusion Pipeline, etc.) will be added soon.
+> ⚠️ Note: This portfolio is actively being updated (Nov 2025). Additional projects (Systems & Kernel Work, Motor Controller, Diffusion Pipeline, etc.) will be added soon.
 
 - [**DrumLite – Portable Electronic Drum System**](DrumLite/README.md)  
   *ESP32, MPU-6050, FreeRTOS, OpenCV (Python/C++)*  
