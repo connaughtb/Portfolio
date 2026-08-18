@@ -7,6 +7,14 @@ Each project includes focused source code and documentation intended to demonstr
 ---
 
 ## Projects
+### [Partitioned Real-Time Task Scheduler](RealTimeScheduler/README.md)
+
+*C, real-time scheduling, bin packing, response-time analysis*
+
+- Allocates up to 10,000 periodic tasks across up to 100 CPU partitions using FFD, BFD, or WFD
+- Validates utilization and applies harmonic-period checks plus fixed-priority response-time analysis
+- Reports per-CPU assignments for schedulable task sets
+
 ### [Embedded FreeRTOS Motor Controller](MotorController/README.md)
 *STM32, C, FreeRTOS, PID control, PWM, quadrature encoder*
 

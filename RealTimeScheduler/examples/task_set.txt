@@ -1,0 +1,5 @@
+2,FFD
+3
+sensor,1,5
+control,1,10
+logging,2,20
