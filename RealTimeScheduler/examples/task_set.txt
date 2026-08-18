@@ -1,5 +1,8 @@
 2,FFD
-3
-sensor,1,5
-control,1,10
-logging,2,20
+6
+vision,9,20
+logging,7,20
+sensor,3,10
+controller,3,12
+telemetry,4,20
+planning,3,20
