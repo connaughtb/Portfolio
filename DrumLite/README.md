@@ -1,7 +1,7 @@
 # DrumLite – Bluetooth Telemetry & Drumstick Detection
 
 **Timeline:** Aug 2024 – Dec 2024  
-**Team Size:** 3 (Capstone Project, CMU ECE)
+**Team Size:** 3 (Capstone Project, CMU ECE)<br />
 **Focus:** Embedded firmware + wireless communication + computer vision  
 **Tech Stack:** ESP32 (C/Arduino), Bluetooth Classic, Adafruit MPU-6050, Python (OpenCV, threading, serial)
 
