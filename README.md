@@ -7,8 +7,15 @@ Each project includes focused source code and documentation intended to demonstr
 ---
 
 ## Projects
-### [Partitioned Real-Time Task Scheduler](RealTimeScheduler/README.md)
+### [Embedded Navigation Stack](EmbeddedNavigation/README.md)
+*C++, Eigen, CMake, Extended Kalman Filter, LQR, A* path planning*
 
+- Built a simulated autonomous-navigation pipeline for a differential-drive robot operating in occupancy-grid environments
+- Implemented and tuned the discrete-time LQR trajectory controller and Extended Kalman Filter for noisy pose estimation
+- Evaluated closed-loop tracking under injected process and measurement noise; EKF position-estimation error remained below approximately 0.05 m
+- Developed with Ethan Crook, who implemented the occupancy-grid processing, obstacle inflation, and A* path-planning components
+
+### [Partitioned Real-Time Task Scheduler](RealTimeScheduler/README.md)
 *C, real-time scheduling, bin packing, response-time analysis*
 
 - Allocates up to 10,000 periodic tasks across up to 100 CPU partitions using FFD, BFD, or WFD
@@ -43,8 +50,9 @@ Each project includes focused source code and documentation intended to demonstr
 - **Programming Languages:** Python, C, C++, Go, Rust, Java
 - **Embedded Systems:** FreeRTOS, STM32/ESP32, real-time scheduling, device drivers, interrupts, Bluetooth, Linux
 - **Distributed Systems:** Concurrency, goroutines, client-server systems, fault tolerance, UDP/TCP networking
-- **Computer Vision & ML:** PyTorch, OpenCV, model-training pipelines
-- **Tools:** Git, Docker
+- **Computer Vision & ML:** OpenCV, PyTorch, TensorFlow, model training pipelines
+- **Libraries & Build Tools:** Eigen, CMake, Docker
+- **Tools:** Git
 
 ---
 
