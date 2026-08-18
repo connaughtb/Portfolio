@@ -1,8 +1,7 @@
 # embedded-nav
-Discrete-Time Navigation Stack
-Belle Connaught & Ethan Crook
-Carnegie Mellon University
-18-675 Spring 2025
+Discrete-Time Navigation Stack<br />
+Belle Connaught & Ethan Crook<br />
+18-675 Spring 2025 @ Carnegie Mellon University
 
 ## Running Instructions
 
